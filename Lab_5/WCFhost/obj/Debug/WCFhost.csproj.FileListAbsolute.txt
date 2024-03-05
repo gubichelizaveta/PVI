@@ -1,0 +1,11 @@
+D:\4kurs\pvi\Lab_5\WCFhost\bin\Debug\WCFhost.exe.config
+D:\4kurs\pvi\Lab_5\WCFhost\bin\Debug\WCFhost.exe
+D:\4kurs\pvi\Lab_5\WCFhost\bin\Debug\WCFhost.pdb
+D:\4kurs\pvi\Lab_5\WCFhost\bin\Debug\Lab_5.dll
+D:\4kurs\pvi\Lab_5\WCFhost\bin\Debug\Lab_5.pdb
+D:\4kurs\pvi\Lab_5\WCFhost\bin\Debug\Lab_5.dll.config
+D:\4kurs\pvi\Lab_5\WCFhost\obj\Debug\WCFhost.csproj.AssemblyReference.cache
+D:\4kurs\pvi\Lab_5\WCFhost\obj\Debug\WCFhost.csproj.CoreCompileInputs.cache
+D:\4kurs\pvi\Lab_5\WCFhost\obj\Debug\WCFhost.csproj.CopyComplete
+D:\4kurs\pvi\Lab_5\WCFhost\obj\Debug\WCFhost.exe
+D:\4kurs\pvi\Lab_5\WCFhost\obj\Debug\WCFhost.pdb

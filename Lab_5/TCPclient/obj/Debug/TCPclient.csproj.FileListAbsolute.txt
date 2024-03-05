@@ -1,0 +1,7 @@
+D:\4kurs\pvi\Lab_5\TCPclient\bin\Debug\TCPclient.exe.config
+D:\4kurs\pvi\Lab_5\TCPclient\bin\Debug\TCPclient.exe
+D:\4kurs\pvi\Lab_5\TCPclient\bin\Debug\TCPclient.pdb
+D:\4kurs\pvi\Lab_5\TCPclient\obj\Debug\TCPclient.csproj.AssemblyReference.cache
+D:\4kurs\pvi\Lab_5\TCPclient\obj\Debug\TCPclient.csproj.CoreCompileInputs.cache
+D:\4kurs\pvi\Lab_5\TCPclient\obj\Debug\TCPclient.exe
+D:\4kurs\pvi\Lab_5\TCPclient\obj\Debug\TCPclient.pdb

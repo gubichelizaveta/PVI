@@ -1,0 +1,5 @@
+D:\4kurs\pvi\lr7\client\bin\Debug\client.exe.config
+D:\4kurs\pvi\lr7\client\bin\Debug\client.exe
+D:\4kurs\pvi\lr7\client\bin\Debug\client.pdb
+D:\4kurs\pvi\lr7\client\obj\Debug\client.exe
+D:\4kurs\pvi\lr7\client\obj\Debug\client.pdb

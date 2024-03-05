@@ -1,0 +1,7 @@
+D:\4kurs\pvi\Lab_5\Lab_5\bin\Debug\Lab_5.dll.config
+D:\4kurs\pvi\Lab_5\Lab_5\bin\Debug\Lab_5.dll
+D:\4kurs\pvi\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+D:\4kurs\pvi\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.AssemblyReference.cache
+D:\4kurs\pvi\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+D:\4kurs\pvi\Lab_5\Lab_5\obj\Debug\Lab_5.dll
+D:\4kurs\pvi\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
